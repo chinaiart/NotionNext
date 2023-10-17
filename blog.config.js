@@ -400,3 +400,6 @@ const BLOG = {
 }
 
 module.exports = BLOG
+ <footer>
+     <a href=" " target="_blank">广东天用设计有限公司 © 粤ICP备18001181号-1</a >
+    </footer>
